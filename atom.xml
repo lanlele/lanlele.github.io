@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://lejunme.com</id>
+    <id>https://lanlele.github.io/</id>
     <title>Hve Notes</title>
-    <updated>2022-02-10T09:27:05.604Z</updated>
+    <updated>2022-02-10T09:28:16.270Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="http://lejunme.com"/>
-    <link rel="self" href="http://lejunme.com/atom.xml"/>
+    <link rel="alternate" href="https://lanlele.github.io/"/>
+    <link rel="self" href="https://lanlele.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>http://lejunme.com/images/avatar.png</logo>
-    <icon>http://lejunme.com/favicon.ico</icon>
+    <logo>https://lanlele.github.io/images/avatar.png</logo>
+    <icon>https://lanlele.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, Hve Notes</rights>
     <entry>
         <title type="html"><![CDATA[2022年2月新华文轩推品]]></title>
-        <id>http://lejunme.com/post/2022-nian-2-yue-xin-hua-wen-xuan-tui-pin/</id>
-        <link href="http://lejunme.com/post/2022-nian-2-yue-xin-hua-wen-xuan-tui-pin/">
+        <id>https://lanlele.github.io/post/2022-nian-2-yue-xin-hua-wen-xuan-tui-pin/</id>
+        <link href="https://lanlele.github.io/post/2022-nian-2-yue-xin-hua-wen-xuan-tui-pin/">
         </link>
         <updated>2022-02-10T07:37:37.000Z</updated>
         <content type="html"><![CDATA[<p>重磅推荐 优势利润品</p>
