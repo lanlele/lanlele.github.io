@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://lejunme.com</id>
+    <title>Hve Notes</title>
+    <updated>2022-02-10T09:22:18.819Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="http://lejunme.com"/>
+    <link rel="self" href="http://lejunme.com/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>http://lejunme.com/images/avatar.png</logo>
+    <icon>http://lejunme.com/favicon.ico</icon>
+    <rights>All rights reserved 2022, Hve Notes</rights>
+    <entry>
+        <title type="html"><![CDATA[2022年2月新华文轩推品]]></title>
+        <id>http://lejunme.com/post/2022-nian-2-yue-xin-hua-wen-xuan-tui-pin/</id>
+        <link href="http://lejunme.com/post/2022-nian-2-yue-xin-hua-wen-xuan-tui-pin/">
+        </link>
+        <updated>2022-02-10T07:37:37.000Z</updated>
+        <content type="html"><![CDATA[<p>重磅推荐 优势利润品</p>
+<p>市场严格控价，利润空间大（20-30%），有推文和图片素材</p>
+<p>童书品类<br>
+0-6岁绘本、认知百科、亲子文学故事；6-12岁课外、科普百科</p>
+<p>童书 小学课外读物<br>
+小学课外读物，覆盖1-6年纪，丰富小学生的课外阅读量。商品显示的价格就是包邮供货价（大陆地区包邮，新疆西藏20元）</p>
+<p>童书 育儿方法<br>
+适合家有小孩的家长阅读</p>
+<p>童书 科普读物<br>
+让小朋友绽放稚嫩的童心去珍爱生命，放飞甜美的理想去探寻自然奥秘，于博物洽闻中通达古今</p>
+<p>大众品类<br>
+生活、个人成长、小说、文学、励志成功</p>
+<p>专业品类<br>
+医学、历史、党政、经管、计算机等</p>
+]]></content>
+    </entry>
+</feed>
