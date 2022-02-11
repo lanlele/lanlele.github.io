@@ -1,19 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://lejunme.com/</id>
-    <title>Hve Notes</title>
-    <updated>2022-02-11T02:34:03.673Z</updated>
+    <title>文轩荐书</title>
+    <updated>2022-02-11T08:40:24.670Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://lejunme.com/"/>
     <link rel="self" href="http://lejunme.com/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>精选正版优质图书</subtitle>
     <logo>http://lejunme.com/images/avatar.png</logo>
     <icon>http://lejunme.com/favicon.ico</icon>
-    <rights>All rights reserved 2022, Hve Notes</rights>
+    <rights>All rights reserved 2022, 文轩荐书</rights>
+    <entry>
+        <title type="html"><![CDATA[童书—点读笔系列]]></title>
+        <id>http://lejunme.com/tong-shu-dian-du-bi/</id>
+        <link href="http://lejunme.com/tong-shu-dian-du-bi/">
+        </link>
+        <updated>2022-02-11T06:10:13.000Z</updated>
+        <content type="html"><![CDATA[<p>点读笔</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022年2月新华文轩推品]]></title>
-        <id>http://lejunme.com/post/2022-nian-2-yue-xin-hua-wen-xuan-tui-pin/</id>
-        <link href="http://lejunme.com/post/2022-nian-2-yue-xin-hua-wen-xuan-tui-pin/">
+        <id>http://lejunme.com/2022-nian-2-yue-xin-hua-wen-xuan-tui-pin/</id>
+        <link href="http://lejunme.com/2022-nian-2-yue-xin-hua-wen-xuan-tui-pin/">
         </link>
         <updated>2022-02-10T07:37:37.000Z</updated>
         <content type="html"><![CDATA[<p>重磅推荐 优势利润品</p>
